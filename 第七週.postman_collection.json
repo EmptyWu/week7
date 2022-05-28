@@ -20,7 +20,7 @@
 								"type": "text"
 							}
 						],
-						"url": "{{url}}/users/profile"
+						"url": "https://secure-waters-58221.herokuapp.com/users/profile"
 					},
 					"response": []
 				},
@@ -38,7 +38,7 @@
 								}
 							}
 						},
-						"url": "{{url}}/users/sign_up"
+						"url": "https://secure-waters-58221.herokuapp.com/users/sign_up"
 					},
 					"response": []
 				},
@@ -56,7 +56,7 @@
 								}
 							}
 						},
-						"url": "{{url}}/users/sign_in"
+						"url": "https://secure-waters-58221.herokuapp.com/users/sign_in"
 					},
 					"response": []
 				},
@@ -80,7 +80,7 @@
 								}
 							}
 						},
-						"url": "{{url}}/users/updatePassword"
+						"url": "https://secure-waters-58221.herokuapp.com/users/updatePassword"
 					},
 					"response": []
 				},
@@ -104,7 +104,7 @@
 								}
 							}
 						},
-						"url": "{{url}}/users/profile"
+						"url": "https://secure-waters-58221.herokuapp.com/users/profile"
 					},
 					"response": []
 				}
